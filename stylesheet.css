@@ -56,8 +56,11 @@ ul{
   }
   ul li{
     display: inline-block;
+    margin: 0 10px;
+    background-color: blue;
   
   }
+
   ul li a{
     color: white;
     text-decoration: none;
@@ -67,9 +70,9 @@ ul{
 
 .nav {
     text-transform: uppercase;
-    background-color: blue;
     display: inline-block;
     margin: 0 25px;
+    padding: 5px;
     box-shadow: 5px;
    
 }
